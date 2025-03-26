@@ -29,8 +29,8 @@
 
 ## 🔥 News
 
-- **25/03/2025** – 🗞️ *First public release of the Tech4Diet Research Lab on GitHub!*  
-  Our official repository is now live, featuring projects on 3D recontruction, fish classification and elasmobranch detection. Stay tuned for updates!
+- **25/03/2025** – 🗞️ *First public release of the GLORiA Project!*  
+  The initial version of GLORiA is now available on GitHub. This release includes deep learning models for fish classification, visual explainability tools and a new dataset for detecting escaped fish from aquaculture facilities. Stay tuned for upcoming modules and releases!
 
 ## 🎥 Media & Conferences
 
@@ -41,31 +41,32 @@
 ## 🗺️ Roadmap
 
 ### 📘 M1: Benchmarking Deep Learning Models for Fish Classification
-- [x] Define fish classes: Wild, Escaped, Farmed  
-- [x] Build labeled dataset from field campaigns  
-- [x] Apply data augmentation and preprocessing  
-- [x] Train baseline CNN model (ResNet50)  
-- [x] Integrate explainability tools (Grad-CAM)  
-- [x] Develop image inference pipeline  
-- [x] Deploy with Gradio demo  
+- [x] Image segmentation and enhancement of the dataset  
+- [x] Loss function design and augmentation strategies for class imbalance  
+- [x] Fine-tuning of baseline CNN models  
+- [x] Fine-tuning of baseline Vision Transformer (ViT) models  
+- [x] CLIP-based zero-shot and prompt-driven classification  
+- [x] Comparative analysis of model performance across approaches   
 
-### 📗 Improved M1: Explainability and Model Transparency
-- [ ] Expand interpretability tools (e.g., Score-CAM, LIME, SHAP)  
-- [ ] Compare explainability across CNNs, ViT, and CLIP  
-- [ ] Analyze misclassifications and decision boundaries  
-- [ ] Design explainability outputs for non-expert users (e.g., fisheries technicians)  
-
+### 📗 M1+: Explainability and Model Transparency
+- [x] Prompt refinement to enhance model interpretability  
+- [x] Extraction of key visual features used by the models  
+- [x] Integration of interpretability techniques (e.g., Grad-ECLIP, t-SNE, manual feature manipulation)  
+- [x] Comparison between model-derived features and expert annotations  
+- [x] Application of explainability pipeline to escaped fish detection scenarios 
+      
 ### 📙 M2: Multimodal and Prompt-Based Classification
-- [ ] Improve domain adaptation between lab and field images  
-- [ ] Integrate CLIP and vision-language models  
-- [ ] Optimize prompt engineering for improved generalization  
-- [ ] Evaluate zero-shot and few-shot classification scenarios  
+- [x] Prompt enhancement using expert-driven definitions  
+- [x] Utilization of LLMs to refine prompts through bag-of-words strategies  
+- [x] Metric comparison to identify optimal prompts for classification tasks  
+- [x] Analysis and discussion of metrics and results, with integration into M1+  
+- [ ] Generalization and validation on external datasets 
 
 ### 📕 M3: Dataset Expansion and Open Science
-- [ ] Include new sampling campaigns and image sources  
-- [ ] Annotate edge cases and complex specimens  
-- [ ] Release public version of the dataset with documentation  
-- [ ] Publish evaluation benchmarks and baseline models  
+- [x] Inclusion of new high-quality laboratory images  
+- [ ] Expansion of the dataset to include more complex, non-optimal conditions  
+- [ ] Annotation and curation of edge cases and challenging specimens  
+- [ ] Release of a public version of the extended dataset with full documentation  
 
 ## 📄 Publications
 
