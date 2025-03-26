@@ -40,7 +40,7 @@
 
 ## 🗺️ Roadmap
 
-### ✅ Completed
+### 📘 M1: Benchmarking Deep Learning Models for Fish Classification
 - [x] Define fish classes: Wild, Escaped, Farmed  
 - [x] Build labeled dataset from field campaigns  
 - [x] Apply data augmentation and preprocessing  
@@ -49,16 +49,30 @@
 - [x] Develop image inference pipeline  
 - [x] Deploy with Gradio demo  
 
-### 🚧 In Progress / Upcoming
-- [ ] Improve domain adaptation between field and lab images  
-- [ ] Incorporate CLIP-based classification  
-- [ ] Expand dataset with new sampling campaigns  
-- [ ] Publish dataset for research community  
+### 📗 Improved M1: Explainability and Model Transparency
+- [ ] Expand interpretability tools (e.g., Score-CAM, LIME, SHAP)  
+- [ ] Compare explainability across CNNs, ViT, and CLIP  
+- [ ] Analyze misclassifications and decision boundaries  
+- [ ] Design explainability outputs for non-expert users (e.g., fisheries technicians)  
+
+### 📙 M2: Multimodal and Prompt-Based Classification
+- [ ] Improve domain adaptation between lab and field images  
+- [ ] Integrate CLIP and vision-language models  
+- [ ] Optimize prompt engineering for improved generalization  
+- [ ] Evaluate zero-shot and few-shot classification scenarios  
+
+### 📕 M3: Dataset Expansion and Open Science
+- [ ] Include new sampling campaigns and image sources  
+- [ ] Annotate edge cases and complex specimens  
+- [ ] Release public version of the dataset with documentation  
+- [ ] Publish evaluation benchmarks and baseline models  
 
 ## 📄 Publications
 
 - Jerez, M. et al. (2024). *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning*  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
+
+> 📌 *The results from M1 and the improved M1+ are currently under review.*
 
 ## 👥 Research Team
 
