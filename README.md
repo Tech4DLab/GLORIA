@@ -40,6 +40,7 @@
 
 ## 🗺️ Roadmap
 
+### ✅ Completed
 - [x] Define fish classes: Wild, Escaped, Farmed  
 - [x] Build labeled dataset from field campaigns  
 - [x] Apply data augmentation and preprocessing  
@@ -47,11 +48,12 @@
 - [x] Integrate explainability tools (Grad-CAM)  
 - [x] Develop image inference pipeline  
 - [x] Deploy with Gradio demo  
+
+### 🚧 In Progress / Upcoming
 - [ ] Improve domain adaptation between field and lab images  
 - [ ] Incorporate CLIP-based classification  
 - [ ] Expand dataset with new sampling campaigns  
 - [ ] Publish dataset for research community  
-- [ ] Submit paper to top-tier conference
 
 ## 📄 Publications
 
