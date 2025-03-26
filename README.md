@@ -42,6 +42,7 @@
 
 <details>
 <summary>📘 <strong>M1: Benchmarking Deep Learning Models for Fish Classification</strong></summary>
+  
 - [x] Image segmentation and enhancement of the dataset  
 - [x] Loss function design and augmentation strategies for class imbalance  
 - [x] Fine-tuning of baseline CNN models  
