@@ -42,31 +42,6 @@
 
 <details>
 <summary>📘 <strong>M1: Benchmarking Deep Learning Models for Fish Classification</strong></summary>
-
-### 📊 Classification Accuracy by Model (%)
-
-| **Model**           | **Total** | **_D. labrax_** | **_S. aurata_** |
-|---------------------|-----------|------------------|------------------|
-| **Convolutional Networks (CNNs)** |||  
-| MobileNetV2         | 79.0      | 61.0             | 97.0             |
-| ResNet50            | 80.5      | 74.0             | 87.0             |
-| VGG                 | 84.0      | 78.0             | 90.0             |
-| **InceptionV3**     | **85.5**  | **74.0**         | **97.0**         |
-|                     |           |                  |                  |
-| **Multimodal Models (Image + Text Prompts)** |||  
-| BLIP                | 55.0      | 50.0             | 60.0             |
-| ALIGN               | 56.5      | 74.0             | 39.0             |
-| BLIP-2              | 68.0      | 65.0             | 65.0             |
-| Kosmos-2            | 62.0      | 71.0             | 53.0             |
-| OpenCLIP            | 84.0      | 74.0             | 94.0             |
-| **CLIP**            | **86.5**  | **83.0**         | **90.0**         |
-|                     |           |                  |                  |
-| **Vision Transformers (ViTs)** |||  
-| ViT-L/14            | 0.0       | 0.0              | 0.0              |
-| **ViT-B/32**        | **92.0**  | **87.0**         | **97.0**         |
-| ViT-B/16            | 0.0       | 0.0              | 0.0              |
-
-
 - [x] Image segmentation and enhancement of the dataset  
 - [x] Loss function design and augmentation strategies for class imbalance  
 - [x] Fine-tuning of baseline CNN models  
