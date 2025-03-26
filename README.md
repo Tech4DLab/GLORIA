@@ -40,33 +40,49 @@
 
 ## 🗺️ Roadmap
 
-### 📘 M1: Benchmarking Deep Learning Models for Fish Classification
+<details>
+<summary>📘 <strong>M1: Benchmarking Deep Learning Models for Fish Classification</strong></summary>
+
 - [x] Image segmentation and enhancement of the dataset  
 - [x] Loss function design and augmentation strategies for class imbalance  
 - [x] Fine-tuning of baseline CNN models  
 - [x] Fine-tuning of baseline Vision Transformer (ViT) models  
 - [x] CLIP-based zero-shot and prompt-driven classification  
-- [x] Comparative analysis of model performance across approaches   
+- [x] Comparative analysis of model performance across approaches  
 
-### 📗 M1+: Explainability and Model Transparency
+</details>
+
+<details>
+<summary>📗 <strong>M1+: Explainability and Model Transparency</strong></summary>
+
 - [x] Prompt refinement to enhance model interpretability  
 - [x] Extraction of key visual features used by the models  
 - [x] Integration of interpretability techniques (e.g., Grad-ECLIP, t-SNE, manual feature manipulation)  
 - [x] Comparison between model-derived features and expert annotations  
-- [x] Application of explainability pipeline to escaped fish detection scenarios 
-      
-### 📙 M2: Multimodal and Prompt-Based Classification
+- [x] Application of explainability pipeline to escaped fish detection scenarios  
+
+</details>
+
+<details>
+<summary>📙 <strong>M2: Multimodal and Prompt-Based Classification</strong></summary>
+
 - [x] Prompt enhancement using expert-driven definitions  
 - [x] Utilization of LLMs to refine prompts through bag-of-words strategies  
 - [x] Metric comparison to identify optimal prompts for classification tasks  
 - [x] Analysis and discussion of metrics and results, with integration into M1+  
-- [ ] Generalization and validation on external datasets 
+- [ ] Generalization and validation on external datasets  
 
-### 📕 M3: Dataset Expansion and Open Science
+</details>
+
+<details>
+<summary>📕 <strong>M3: Dataset Expansion and Open Science</strong></summary>
+
 - [x] Inclusion of new high-quality laboratory images  
 - [ ] Expansion of the dataset to include more complex, non-optimal conditions  
 - [ ] Annotation and curation of edge cases and challenging specimens  
 - [ ] Release of a public version of the extended dataset with full documentation  
+
+</details>
 
 ## 📄 Publications
 
