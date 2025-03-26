@@ -29,7 +29,7 @@
 
 ## 🔥 News
 
-- **25/03/2025** – 🗞️ *First public release of the GLORiA Project!*  
+- **26/03/2025** – 🗞️ *First public release of the GLORiA Project!*  
   The initial version of GLORiA is now available on GitHub. This release includes deep learning models for fish classification, visual explainability tools and a new dataset for detecting escaped fish from aquaculture facilities. Stay tuned for upcoming modules and releases!
 
 ## 🎥 Media & Conferences
