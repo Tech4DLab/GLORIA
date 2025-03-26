@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/LogoGLORiA.png" alt="Banner UA" width="1000"/>
+  <img src="./images/LogoGLORiA.jpg" alt="Banner UA" width="1000"/>
 </p>
 <h1 align="center">🐟 Tech4DLab GLORiA 🎣</h1>
 <h3 align="center">🏛️ University of Alicante 🏛️</h3>
