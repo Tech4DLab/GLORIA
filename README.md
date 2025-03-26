@@ -36,7 +36,22 @@
 
 - 📰 *GLORIA Project* – Official Pleamar Page: [GLORIA Tools – Aquaculture tools for long-term sustainability](https://www.programapleamar.es/proyectos/gloria-tools-global-change-resilience-aquaculture-tools-long-term-sustainability)
 - 📰 *University of ALicante*: [Exposición del Programa Pleamar en la UA](https://web.ua.es/es/actualidad-universitaria/2024/octubre2024/1-6/la-fundacion-biodiversidad-inaugura-una-nueva-itinerancia-de-la-exposicion-del-programa-pleamar-en-la-universidad-de-alicante.html)
-- 📰 *Programa Pleamar* – News: [Tres proyectos de investigación ambiental en acuicultura](https://www.programapleamar.es/actualidad/noticias/seleccionamos-tres-proyectos-de-investigacion-ambiental-en-acuicultura-recursos)  
+- 📰 *Programa Pleamar* – News: [Tres proyectos de investigación ambiental en acuicultura](https://www.programapleamar.es/actualidad/noticias/seleccionamos-tres-proyectos-de-investigacion-ambiental-en-acuicultura-recursos)
+
+## 🗺️ Roadmap
+
+- [x] Define fish classes: Wild, Escaped, Farmed  
+- [x] Build labeled dataset from field campaigns  
+- [x] Apply data augmentation and preprocessing  
+- [x] Train baseline CNN model (ResNet50)  
+- [x] Integrate explainability tools (Grad-CAM)  
+- [x] Develop image inference pipeline  
+- [x] Deploy with Gradio demo  
+- [ ] Improve domain adaptation between field and lab images  
+- [ ] Incorporate CLIP-based classification  
+- [ ] Expand dataset with new sampling campaigns  
+- [ ] Publish dataset for research community  
+- [ ] Submit paper to top-tier conference
 
 ## 📄 Publications
 
