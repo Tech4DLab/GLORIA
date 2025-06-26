@@ -63,7 +63,7 @@
 - [x] Integration of interpretability techniques (e.g., Grad-ECLIP, t-SNE, manual feature manipulation)  
 - [x] Comparison between model-derived features and expert annotations  
 - [x] Application of explainability pipeline to escaped fish detection scenarios  
-
+- 🔗 **Related repository**: [[GLORiA-M1 Classification Benchmark](https://github.com/Tech4DLab/M1-/tree/main)]
 </details>
 
 <details>
