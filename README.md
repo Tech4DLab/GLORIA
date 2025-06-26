@@ -51,7 +51,8 @@
 - [x] Fine-tuning of baseline CNN models  
 - [x] Fine-tuning of baseline Vision Transformer (ViT) models  
 - [x] CLIP-based zero-shot and prompt-driven classification  
-- [x] Comparative analysis of model performance across approaches  
+- [x] Comparative analysis of model performance across approaches
+- [X] 🔗 **Related repository**: [[GLORiA-M1 Classification Benchmark](https://github.com/Tech4DLab/M1-/tree/main)]  
 
 </details>
 
@@ -63,7 +64,7 @@
 - [x] Integration of interpretability techniques (e.g., Grad-ECLIP, t-SNE, manual feature manipulation)  
 - [x] Comparison between model-derived features and expert annotations  
 - [x] Application of explainability pipeline to escaped fish detection scenarios  
-- 🔗 **Related repository**: [[GLORiA-M1 Classification Benchmark](https://github.com/Tech4DLab/M1-/tree/main)]
+- [] 🔗 **Related repository**: [[GLORiA-M1+ Explainability (Pending update)](https://github.com/Tech4DLab/M1-/tree/main)] 
 </details>
 
 <details>
