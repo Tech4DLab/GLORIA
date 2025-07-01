@@ -68,18 +68,7 @@
 </details>
 
 <details>
-<summary>📙 <strong>M2: Multimodal and Prompt-Based Classification</strong></summary>
-
-- [x] Prompt enhancement using expert-driven definitions  
-- [x] Utilization of LLMs to refine prompts through bag-of-words strategies  
-- [x] Metric comparison to identify optimal prompts for classification tasks  
-- [x] Analysis and discussion of metrics and results, with integration into M1+  
-- [ ] Generalization and validation on external datasets  
-
-</details>
-
-<details>
-<summary>📕 <strong>M3: Dataset Expansion and Open Science</strong></summary>
+<summary>📕 <strong>M2: Dataset Expansion and Open Science</strong></summary>
 
 - [x] Inclusion of new high-quality laboratory images  
 - [ ] Expansion of the dataset to include more complex, non-optimal conditions  
