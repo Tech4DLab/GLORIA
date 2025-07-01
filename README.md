@@ -52,6 +52,7 @@
 - [x] Fine-tuning of baseline Vision Transformer (ViT) models  
 - [x] CLIP-based zero-shot and prompt-driven classification  
 - [x] Comparative analysis of model performance across approaches
+- [x] 🔗 **Related repository**: [[TFG 3 Class Classification](https://github.com/Tech4DLab/M1-/tree/main)]   
 - [X] 🔗 **Related repository**: [[GLORiA-M1 Classification Benchmark](https://github.com/Tech4DLab/M1-/tree/main)]  
 
 </details>
