@@ -36,7 +36,7 @@
   The initial version of GLORiA is now available on GitHub. This release includes deep learning models for fish classification, visual explainability tools and a new dataset for detecting escaped fish from aquaculture facilities. Stay tuned for upcoming modules and releases!
 - **27/06/2025** – 🎤 *M1+ presented at SARTECO 2025!*  
   The classification system based on text–image embeddings and deep learning CNN models was presented during the national conference on advanced technologies in computing.  
-  🔗 [See the LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7345452333578764292/))
+  🔗 [See the LinkedIn post] (https://www.linkedin.com/feed/update/urn:li:activity:7345452333578764292/)
 
 ## 🎥 Media & Conferences
 
