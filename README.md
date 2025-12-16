@@ -77,8 +77,8 @@
 <summary>📕 <strong>M2: Dataset Expansion and Open Science</strong></summary>
 
 - [x] Inclusion of new high-quality laboratory images  
-- [ ] Expansion of the dataset to include more complex, non-optimal conditions  
-- [ ] Annotation and curation of edge cases and challenging specimens  
+- [x] Expansion of the dataset to include more complex, non-optimal conditions  
+- [x] Annotation and curation of edge cases and challenging specimens  
 - [ ] Release of a public version of the extended dataset with full documentation  
 
 </details>
