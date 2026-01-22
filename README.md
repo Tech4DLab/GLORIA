@@ -90,10 +90,10 @@
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-02725-2_6)
 
 - Jerez, M. et al. (2026). *Domain-Aware Foundation Vision-Language Models for Explainable Identification of Wild and Farmed Fish*  
-  [📚 Springer Link Pending]
+  📚 Springer Link Pending
 
 - Jerez, M. et al. (2026). *The GLORiA fish farm escapes identification dataset*  
-  [📚 Springer Link Pending]
+  📚 Springer Link Pending
 
 ## 👥 Research Team
 
