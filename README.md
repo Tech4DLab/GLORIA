@@ -48,7 +48,7 @@
 ## 🗺️ Roadmap
 
 <details>
-<summary>📘 <strong>M1: Benchmarking Deep Learning Models for Fish Classification</strong></summary>
+<summary>📘 <strong> Benchmarking Deep Learning Models for Fish Classification</strong></summary>
   
 - [x] Image segmentation and enhancement of the dataset  
 - [x] Loss function design and augmentation strategies for class imbalance  
@@ -56,31 +56,29 @@
 - [x] Fine-tuning of baseline Vision Transformer (ViT) models  
 - [x] CLIP-based zero-shot and prompt-driven classification  
 - [x] Comparative analysis of model performance across approaches  
-    - 🔗 **Related repository**: [[TFG 3 Class Classification](https://github.com/Tech4DLab/M1-/tree/main)]  
-
-- [x] 🔗 **Related repository**: [[GLORiA-M1 Classification Benchmark](https://github.com/Tech4DLab/M1-/tree/main)]  
+- [x] 🔗 **Related repository**: [[TFG 3 Class Classification](https://github.com/Tech4DLab/M1-/tree/main)]   
 
 </details>
 
 <details>
-<summary>📗 <strong>M1+: Explainability and Model Transparency</strong></summary>
+<summary>📗 <strong> Explainability and Model Transparency</strong></summary>
 
 - [x] Prompt refinement to enhance model interpretability  
 - [x] Extraction of key visual features used by the models  
 - [x] Integration of interpretability techniques (e.g., Grad-ECLIP, t-SNE, manual feature manipulation)  
 - [x] Comparison between model-derived features and expert annotations  
 - [x] Application of explainability pipeline to escaped fish detection scenarios  
-- [] 🔗 **Related repository**: [[GLORiA-M1+ Explainability (Pending update)](https://github.com/Tech4DLab/M1-/tree/main)] 
+- [x] 🔗 **Related repository**: [[GLORiA-M1+ Explainability (Pending update)](https://github.com/Tech4DLab/M1-/tree/main)] 
 </details>
 
 <details>
-<summary>📕 <strong>M2: Dataset Expansion and Open Science</strong></summary>
+<summary>📕 <strong> Dataset Expansion and Open Science</strong></summary>
 
 - [x] Inclusion of new high-quality laboratory images  
 - [x] Expansion of the dataset to include more complex, non-optimal conditions  
 - [x] Annotation and curation of edge cases and challenging specimens  
-- [ ] Release of a public version of the extended dataset with full documentation  
-
+- [x] Release of a public version of the extended dataset with full documentation  
+- [x] 🔗 **Related repository**: [[GLORiA-Dataset (Pending update)](https://github.com/Tech4DLab/GLORiA-Dataset/tree/main)]
 </details>
 
 ## 📄 Publications
