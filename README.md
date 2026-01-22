@@ -86,7 +86,11 @@
 - Jerez, M. et al. (2024). *GLORiA: Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning*  
   [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-77571-0_75)
 
-> 📌 *The results from M1 and the improved M1+ are currently under review.*
+- Jerez, M. et al. (2025). *Comparative Study of Deep Learning Approaches for Fish Origin Classification*  
+  [📚 Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-02725-2_6)
+
+- Jerez, M. et al. (2026). *Domain-Aware Foundation Vision-Language Models for Explainable Identification of Wild and Farmed Fish*  
+  [📚 Springer Link Pending]
 
 ## 👥 Research Team
 
